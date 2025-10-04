@@ -7,7 +7,7 @@ This is a simple Todo App Clone built with HTML, CSS, and vanilla JavaScript. It
 1.  **Clone the repository:**
 
     ```
-    git clone <repository-url>
+    git clone https://github.com/baha998/tsis1subclone.git
     ```
 
 2.  **Initialize Firebase:**
@@ -25,4 +25,4 @@ This is a simple Todo App Clone built with HTML, CSS, and vanilla JavaScript. It
 
 ## Deployed Application
 
-[Link to your deployed app will be here]
+https://todo-app-clone-66408712-5a01f.web.app/
